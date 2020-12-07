@@ -17,9 +17,18 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 3.1.301
+    - name: docker login
+      env:
+        DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+        DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+      run: |
+        docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
     - name: Build
       run: dotnet build --configuration Release
       working-directory: ./forum-backend
     - name: Test
       run: dotnet test
       working-directory: ./forum-backend
+    - name: docker build
+      run: |
+        docker build ./forum-backend
