@@ -1,0 +1,9 @@
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\bin\Release\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\bin\Release\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\bin\Release\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\BusinessLogicLayer\obj\Release\netcoreapp3.1\BusinessLogicLayer.pdb
