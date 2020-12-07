@@ -21,7 +21,5 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release
-      working-directory: ./forum-backend
     - name: Test
       run: dotnet test
-      working-directory: ./forum-backend
