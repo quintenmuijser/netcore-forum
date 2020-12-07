@@ -8,7 +8,6 @@ namespace UnitTestForum
         [TestMethod]
         public void TestMethod1()
         {
-            throw null;
         }
     }
 }

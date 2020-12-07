@@ -6,6 +6,10 @@
     <IsPackable>false</IsPackable>
 
     <SonarQubeTestProject>True</SonarQubeTestProject>
+
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+
+    <DockerfileContext>..\forum-backend</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
