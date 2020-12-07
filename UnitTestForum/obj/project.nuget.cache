@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5J6m7tmGa4kJNaHHwiudw9fKpaX27+KGctdMPhHeOrYbr13fEPncfGP3+PlGIGQ6UPTpujpg2bh+aR8AQA7jg==",
+  "dgSpecHash": "Sc9WRMW/2M21y0+AMpv/bk3RxQWyh5uttbH/W6E5QcTCIfrXzSri/wGBMAG7ELjGotjqzQea9HZrjf4MKGfPpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\UnitTestForum\\UnitTestForum.csproj",
+  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\UnitTestForum\\UnitTestForum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quint\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\quint\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

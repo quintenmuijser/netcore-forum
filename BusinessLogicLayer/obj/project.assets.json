@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",

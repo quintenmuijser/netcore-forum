@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\UnitTestForum\\UnitTestForum.csproj",
+      "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\UnitTestForum\\UnitTestForum.csproj",
       "projectName": "UnitTestForum",
-      "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\UnitTestForum\\UnitTestForum.csproj",
+      "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\UnitTestForum\\UnitTestForum.csproj",
       "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\UnitTestForum\\obj\\",
+      "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\UnitTestForum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\forum-backend.csproj": {}
+    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\forum-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\forum-backend.csproj": {
+    "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\forum-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\forum-backend.csproj",
+        "projectUniqueName": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\forum-backend.csproj",
         "projectName": "forum-backend",
-        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\forum-backend.csproj",
+        "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\forum-backend.csproj",
         "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\obj\\",
+        "outputPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -143,11 +143,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -160,6 +160,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

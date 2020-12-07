@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIkTbW5KbwhSMYPqasyYj4RevLBFdUbPkgVZPtk4ZCY7IQ+/OA4j9+oyb89diqav3m4Ht+FRkAG4AZkkEF5k+g==",
+  "dgSpecHash": "izy4c7AcpA9mPxGbyFfAchYNu9ve622BTUmjLd08gC2fstzwFzFOg7yyFnT6ZFcoxQ3Xjq2ovX1EGIuzvHXF/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quint\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

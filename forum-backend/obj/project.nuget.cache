@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iNhj0ClmbPcFDSc8wWji2M453VQzw0zQzpZLry4jHehIbQS+HFusP2iYxWHKCO39Th4OLB3nayeSQeVNyuS6cQ==",
+  "dgSpecHash": "yRVIa2gTSGff7FaUZSvDM6eMJ/F9mL6NZ633LIQDQJ/C8HRf6Q1qkM4Wjsic04OqjNxnu0dX6cw7RIyXqx7kOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\forum-backend\\forum-backend.csproj",
+  "projectFilePath": "C:\\Users\\quint\\Desktop\\school project v2\\school_forum_netcore\\netcore-forum\\forum-backend\\forum-backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\quint\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\quint\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

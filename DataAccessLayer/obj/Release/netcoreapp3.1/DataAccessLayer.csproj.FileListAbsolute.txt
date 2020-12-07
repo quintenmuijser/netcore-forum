@@ -7,3 +7,12 @@ C:\Users\quint\Desktop\school project v2\school_forum_netcore\DataAccessLayer\ob
 C:\Users\quint\Desktop\school project v2\school_forum_netcore\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\quint\Desktop\school project v2\school_forum_netcore\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.dll
 C:\Users\quint\Desktop\school project v2\school_forum_netcore\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\quint\Desktop\school project v2\school_forum_netcore\netcore-forum\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.pdb
